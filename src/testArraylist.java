@@ -21,7 +21,7 @@ public class testArraylist {
 		
 		for(int i=0; i<myList.size(); i++){
 			
-			
+			System.out.println("changes are done");
 			System.out.println(myList.get(i));
 			
 		}
